@@ -1,0 +1,38 @@
+Please fill out the following and submit with your Final Project submission 
+(added to help us know what to focus on when grading, what was intentionally incomplete, etc.):
+
+1. What is your estimated grade for the Final Project (roughly of 100)? For partner projects,
+   do you think the workload distribution was fair?
+
+The distribution was fair. We pair programmed the API and worked together on the documentation.
+I'd estimate that my grade for this project is around 90-95%.
+
+2. What is your estimated grade for the course (letter grade)? You can support your
+   estimate with examples of demonstrated engagement in the course material, strengths
+   (and weaknesses) over the term, and growth throughout the material (some assignment
+   grading feedback was delayed, but we would like to know what resources you used to
+   iterate on the material, such as lectures, OH, Discord, etc.)
+
+
+I estimate my grade for the course will be an A. I have completed all my assignments on time,
+and I've consistently read through the lecture notes to ensure I was not falling behind. Even
+though I had experience with web dev before this class, I changed my habits because I learned
+the proper coding practices from watching the lecture videos and reading the slides.
+
+
+3. To what extent would you like feedback in your project (e.g. thorough, particular areas of the
+   project, or just a grade)?
+
+Just a grade is okay.
+
+4. Anything else you would like El to know when grading?
+
+In my project proposal, I said I would implement a loyalty member sign in. I did not realize
+until recently that seniors only have to implement one optional feature. So I've implemented
+the ability for a user to purchase an item. Even though I don't have a cart view, the stock
+is updated in the back end, so users can no longer purchase the same item. 
+
+5. Are you open to sharing your project/reflection for future terms? If so, would you
+   like named credit or anonymous?
+
+You can share it anonymously. 

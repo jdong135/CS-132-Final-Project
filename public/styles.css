@@ -1,0 +1,187 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.hidden {
+    display: none;
+}
+
+h1:hover, nav ul li, button:hover {
+    cursor: pointer;
+}
+
+body, nav ul {
+    margin: 0;
+}
+
+body, nav ul li a, nav ul li a:visited, footer a {
+    color: white;
+}
+
+body {
+    font-family: 'Space Mono', Verdana, sans-serif;
+    min-height: 100vh;
+    background-color: black;
+}
+
+header, footer, section {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+section, #submit-btn, #input-form label {
+    margin-top: 20px;
+}
+
+footer, #product-container button, #items-view button {
+    padding: 20px;
+}
+
+header, nav, nav ul, #filter-bar, #filter-container, #items-view,
+#product-container, #contact-page form, body, #items-view div,
+#home-banner {
+    display: flex;
+}
+
+#contact-page form, body, #items-view div {
+    flex-direction: column;
+}
+
+#form-success, footer, #successful-purchase, #message-area {
+    text-align: center;
+}
+
+#home-banner {
+    justify-content: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    flex: 1;
+}
+
+#contact-page form {
+    width: 50%;
+    margin: auto;
+}
+
+#product-container img {
+    max-width: 35%;
+    margin-right: 30px;
+}
+
+#successful-purchase, .single-view-title {
+    font-size: 30px;
+}
+
+#successful-purchase, .product-name, #message-area {
+    font-weight: bold;
+}
+
+#product-container button, #items-view button, #submit-btn {
+    background-color: white;
+}
+
+#product-container button, #items-view button, #submit-btn {
+    color: black;
+}
+
+#product-container button, #items-view button, #submit-btn {
+    font-size: 16px;
+}
+
+#items-view button {
+    width: 25%;
+}
+
+.single-view-title, .product-name {
+    margin-bottom: 0;
+}
+
+.single-view-price {
+    margin-top: 0;
+}
+
+.single-view-description {
+    width: 75%;
+}
+
+.product-name {
+    font-size: 20px;
+}
+
+nav, #filter-container, #items-view div {
+    align-items: center;
+}
+
+#items-view, header, #filter-bar {
+    justify-content: space-between;
+}
+
+#items-view {
+    flex-wrap: wrap;
+    align-items: end;
+    row-gap: 20px;
+}
+
+#items-view div {
+    width: 33%;
+}
+
+#items-view img {
+    max-width: 90%;
+    max-height: 400px;
+}
+
+header {
+    border-bottom: 2px solid #d3d3d3;
+}
+
+#filter-bar {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+nav ul {
+    list-style: none;
+    gap: 20px;
+    padding: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+#submit-btn {
+    padding: 10px;
+    font-family: 'Space Mono', 'Verdana', sans-serif;
+}
+
+#submit-btn:disabled, #product-details button:disabled{
+    cursor: not-allowed;
+    background-color: gray;
+}
+
+#name-input {
+    height: 20px;
+    border: 1px solid #262828;
+}
+
+#input-form label {
+    margin-bottom: 5px;
+}
+
+button {
+    border: none;
+}
+
+#home-banner img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#message-area {
+    font-size: 18px;
+}
