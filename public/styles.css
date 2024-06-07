@@ -1,3 +1,11 @@
+/* 
+ * Author: Jay Dong
+ * CS 132 Spring 2024
+ * Date: June 7, 2024
+ * I chose not to split the styles into different style sheets since the
+ * website changes pages by toggling the .hidden class.
+*/
+
 html {
     scroll-behavior: smooth;
 }
